@@ -62,7 +62,7 @@ Visit http://127.0.0.1:5000/ in your browser
 
 ### Predict Endpoint
 
-POST `/predict_datapoint`
+POST `/`
 
 Parameters:
 - gender
